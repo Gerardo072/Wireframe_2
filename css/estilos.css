@@ -1,6 +1,16 @@
+/****************************************************************** 
+* UNIDADES DE MEDIDAS RELATIVAS
+*
+* EM
+* estas medida se establece con relación al font-size mas cercano
+*
+* REM
+* esta medida se establece con relación al font-size del html
+******************************************************************/
 *{
     margin: 0;
     padding: 0;
+    background-color: red;
 }
 .margen{
     margin-left: ;
